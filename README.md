@@ -2,6 +2,3 @@
 Objective:
 
 To develop a machine learning model that accurately predicts the fare of an Uber ride using relevant features such as trip distance, date/time, location coordinates, and possibly weather or traffic data.
-
-
-The model will try to predict the uber price based on the user input
